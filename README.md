@@ -5,7 +5,7 @@ description here, so that I can understand later.
 
 Title | Description
 --------|---------
-[MSDN C# Programming Guide](https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx) | Microsoft's official documentation on C#
+[MSDN C# Programming Guide](https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx{:target="_blank"})| Microsoft's official documentation on C#
 
 
 
