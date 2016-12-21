@@ -5,7 +5,8 @@ description here, so that I can understand later.
 
 Title | Description
 --------|---------
-[MSDN C# Programming Guide](https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx)| Microsoft's official documentation on C#
+[MSDN C# Programming Guide](https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx)| Microsoft's official documentation on C# <br>
+[C# 6.0 Language Specification](https://github.com/ljw1004/csharpspec/blob/gh-pages/README.md) | Unofficial Language Specification of C# Programming Language
 
 
 
